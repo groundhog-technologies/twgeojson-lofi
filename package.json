@@ -1,0 +1,22 @@
+{
+  "name": "twgeojson-lofi",
+  "version": "1.0.0",
+  "description": "Low resolution polygons for cities in Taiwan",
+  "main": "cities.geo.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groundhog-technologies/twgeojson-lofi.git"
+  },
+  "keywords": [
+    "Taiwan"
+  ],
+  "author": "Ting-Shao Guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groundhog-technologies/twgeojson-lofi/issues"
+  },
+  "homepage": "https://github.com/groundhog-technologies/twgeojson-lofi#readme"
+}
